@@ -1,4 +1,4 @@
-This is what the event display shows me when i try to boot up davinci resolve:
+///This is what the event display shows me when i try to boot up davinci resolve///:
 Faulting application name: conhost.exe, version: 10.0.19041.3636, timestamp: 0x65528c7a
 Name of the faulty module: KERNELBASE.dll, version: 10.0.19041.3996, timestamp: 0xb756c9ff
 Exception code: 0xc0000409
